@@ -75,8 +75,8 @@
 ---
 
 - **ID :** 12
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** pup
+- **Gender :** M
 
 ---
 
