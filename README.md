@@ -57,8 +57,8 @@
 ---
 
 - **ID :** 9
-- **Name :** <name>
-- **Gender :** <M or F>
+- **Name :** Jojo
+- **Gender :** M
 
 ---
 
